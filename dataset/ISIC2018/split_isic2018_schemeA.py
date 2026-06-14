@@ -23,7 +23,6 @@ Example:
     python split_isic2018_schemeA.py \
         --input-dir /path/to/isic_metadata \
         --output-dir /path/to/output \
-        --seed 42 \
         --train-ratio 0.7
 
 If your filenames are different, pass them explicitly:
@@ -100,12 +99,6 @@ def parse_args() -> argparse.Namespace:
         type=float,
         default=0.7,
         help="Train ratio for stratified split. Default: 0.7.",
-    )
-    parser.add_argument(
-        "--seed",
-        type=int,
-        default=42,
-        help="Random seed for reproducible stratified split. Default: 42.",
     )
     parser.add_argument(
         "--allow-duplicate-isic-id",
@@ -194,7 +187,7 @@ def stratified_split(
     if not 0.0 < train_ratio < 1.0:
         raise ValueError(f"--train-ratio must be between 0 and 1, got {train_ratio}")
 
-    rng = np.random.default_rng(seed)
+    rng = np.random.default_rng()
     split_df = df[["isic_id", "diagnosis_A"]].copy()
 
     train_parts: List[pd.DataFrame] = []
@@ -227,8 +220,8 @@ def stratified_split(
     test_out = pd.concat(test_parts, ignore_index=True)
 
     # Shuffle each final split while preserving reproducibility.
-    train_out = train_out.sample(frac=1.0, random_state=seed).reset_index(drop=True)
-    test_out = test_out.sample(frac=1.0, random_state=seed).reset_index(drop=True)
+    train_out = train_out.sample(frac=1.0).reset_index(drop=True)
+    test_out = test_out.sample(frac=1.0).reset_index(drop=True)
 
     summary = make_summary(split_df, train_out, test_out)
     return train_out, test_out, summary
