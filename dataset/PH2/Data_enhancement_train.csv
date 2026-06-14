@@ -1,0 +1,1121 @@
+ImageName,Category
+IMD091_original,Melanoma
+IMD091_flipped,Melanoma
+IMD091_rot90,Melanoma
+IMD091_rot180,Melanoma
+IMD091_rot270,Melanoma
+IMD091_flipped_rot90,Melanoma
+IMD091_flipped_rot180,Melanoma
+IMD091_flipped_rot270,Melanoma
+IMD075_original,Atypical Nevus
+IMD075_flipped,Atypical Nevus
+IMD075_rot90,Atypical Nevus
+IMD075_rot180,Atypical Nevus
+IMD075_rot270,Atypical Nevus
+IMD075_flipped_rot90,Atypical Nevus
+IMD075_flipped_rot180,Atypical Nevus
+IMD075_flipped_rot270,Atypical Nevus
+IMD177_original,Common Nevus
+IMD177_flipped,Common Nevus
+IMD177_rot90,Common Nevus
+IMD177_rot180,Common Nevus
+IMD177_rot270,Common Nevus
+IMD177_flipped_rot90,Common Nevus
+IMD177_flipped_rot180,Common Nevus
+IMD177_flipped_rot270,Common Nevus
+IMD092_original,Common Nevus
+IMD092_flipped,Common Nevus
+IMD092_rot90,Common Nevus
+IMD092_rot180,Common Nevus
+IMD092_rot270,Common Nevus
+IMD092_flipped_rot90,Common Nevus
+IMD092_flipped_rot180,Common Nevus
+IMD092_flipped_rot270,Common Nevus
+IMD010_original,Common Nevus
+IMD010_flipped,Common Nevus
+IMD010_rot90,Common Nevus
+IMD010_rot180,Common Nevus
+IMD010_rot270,Common Nevus
+IMD010_flipped_rot90,Common Nevus
+IMD010_flipped_rot180,Common Nevus
+IMD010_flipped_rot270,Common Nevus
+IMD014_original,Atypical Nevus
+IMD014_flipped,Atypical Nevus
+IMD014_rot90,Atypical Nevus
+IMD014_rot180,Atypical Nevus
+IMD014_rot270,Atypical Nevus
+IMD014_flipped_rot90,Atypical Nevus
+IMD014_flipped_rot180,Atypical Nevus
+IMD014_flipped_rot270,Atypical Nevus
+IMD108_original,Common Nevus
+IMD108_flipped,Common Nevus
+IMD108_rot90,Common Nevus
+IMD108_rot180,Common Nevus
+IMD108_rot270,Common Nevus
+IMD108_flipped_rot90,Common Nevus
+IMD108_flipped_rot180,Common Nevus
+IMD108_flipped_rot270,Common Nevus
+IMD419_original,Melanoma
+IMD419_flipped,Melanoma
+IMD419_rot90,Melanoma
+IMD419_rot180,Melanoma
+IMD419_rot270,Melanoma
+IMD419_flipped_rot90,Melanoma
+IMD419_flipped_rot180,Melanoma
+IMD419_flipped_rot270,Melanoma
+IMD037_original,Atypical Nevus
+IMD037_flipped,Atypical Nevus
+IMD037_rot90,Atypical Nevus
+IMD037_rot180,Atypical Nevus
+IMD037_rot270,Atypical Nevus
+IMD037_flipped_rot90,Atypical Nevus
+IMD037_flipped_rot180,Atypical Nevus
+IMD037_flipped_rot270,Atypical Nevus
+IMD306_original,Atypical Nevus
+IMD306_flipped,Atypical Nevus
+IMD306_rot90,Atypical Nevus
+IMD306_rot180,Atypical Nevus
+IMD306_rot270,Atypical Nevus
+IMD306_flipped_rot90,Atypical Nevus
+IMD306_flipped_rot180,Atypical Nevus
+IMD306_flipped_rot270,Atypical Nevus
+IMD199_original,Common Nevus
+IMD199_flipped,Common Nevus
+IMD199_rot90,Common Nevus
+IMD199_rot180,Common Nevus
+IMD199_rot270,Common Nevus
+IMD199_flipped_rot90,Common Nevus
+IMD199_flipped_rot180,Common Nevus
+IMD199_flipped_rot270,Common Nevus
+IMD243_original,Atypical Nevus
+IMD243_flipped,Atypical Nevus
+IMD243_rot90,Atypical Nevus
+IMD243_rot180,Atypical Nevus
+IMD243_rot270,Atypical Nevus
+IMD243_flipped_rot90,Atypical Nevus
+IMD243_flipped_rot180,Atypical Nevus
+IMD243_flipped_rot270,Atypical Nevus
+IMD063_original,Melanoma
+IMD063_flipped,Melanoma
+IMD063_rot90,Melanoma
+IMD063_rot180,Melanoma
+IMD063_rot270,Melanoma
+IMD063_flipped_rot90,Melanoma
+IMD063_flipped_rot180,Melanoma
+IMD063_flipped_rot270,Melanoma
+IMD107_original,Common Nevus
+IMD107_flipped,Common Nevus
+IMD107_rot90,Common Nevus
+IMD107_rot180,Common Nevus
+IMD107_rot270,Common Nevus
+IMD107_flipped_rot90,Common Nevus
+IMD107_flipped_rot180,Common Nevus
+IMD107_flipped_rot270,Common Nevus
+IMD008_original,Atypical Nevus
+IMD008_flipped,Atypical Nevus
+IMD008_rot90,Atypical Nevus
+IMD008_rot180,Atypical Nevus
+IMD008_rot270,Atypical Nevus
+IMD008_flipped_rot90,Atypical Nevus
+IMD008_flipped_rot180,Atypical Nevus
+IMD008_flipped_rot270,Atypical Nevus
+IMD210_original,Atypical Nevus
+IMD210_flipped,Atypical Nevus
+IMD210_rot90,Atypical Nevus
+IMD210_rot180,Atypical Nevus
+IMD210_rot270,Atypical Nevus
+IMD210_flipped_rot90,Atypical Nevus
+IMD210_flipped_rot180,Atypical Nevus
+IMD210_flipped_rot270,Atypical Nevus
+IMD156_original,Common Nevus
+IMD156_flipped,Common Nevus
+IMD156_rot90,Common Nevus
+IMD156_rot180,Common Nevus
+IMD156_rot270,Common Nevus
+IMD156_flipped_rot90,Common Nevus
+IMD156_flipped_rot180,Common Nevus
+IMD156_flipped_rot270,Common Nevus
+IMD331_original,Atypical Nevus
+IMD331_flipped,Atypical Nevus
+IMD331_rot90,Atypical Nevus
+IMD331_rot180,Atypical Nevus
+IMD331_rot270,Atypical Nevus
+IMD331_flipped_rot90,Atypical Nevus
+IMD331_flipped_rot180,Atypical Nevus
+IMD331_flipped_rot270,Atypical Nevus
+IMD120_original,Atypical Nevus
+IMD120_flipped,Atypical Nevus
+IMD120_rot90,Atypical Nevus
+IMD120_rot180,Atypical Nevus
+IMD120_rot270,Atypical Nevus
+IMD120_flipped_rot90,Atypical Nevus
+IMD120_flipped_rot180,Atypical Nevus
+IMD120_flipped_rot270,Atypical Nevus
+IMD169_original,Atypical Nevus
+IMD169_flipped,Atypical Nevus
+IMD169_rot90,Atypical Nevus
+IMD169_rot180,Atypical Nevus
+IMD169_rot270,Atypical Nevus
+IMD169_flipped_rot90,Atypical Nevus
+IMD169_flipped_rot180,Atypical Nevus
+IMD169_flipped_rot270,Atypical Nevus
+IMD016_original,Common Nevus
+IMD016_flipped,Common Nevus
+IMD016_rot90,Common Nevus
+IMD016_rot180,Common Nevus
+IMD016_rot270,Common Nevus
+IMD016_flipped_rot90,Common Nevus
+IMD016_flipped_rot180,Common Nevus
+IMD016_flipped_rot270,Common Nevus
+IMD399_original,Common Nevus
+IMD399_flipped,Common Nevus
+IMD399_rot90,Common Nevus
+IMD399_rot180,Common Nevus
+IMD399_rot270,Common Nevus
+IMD399_flipped_rot90,Common Nevus
+IMD399_flipped_rot180,Common Nevus
+IMD399_flipped_rot270,Common Nevus
+IMD160_original,Common Nevus
+IMD160_flipped,Common Nevus
+IMD160_rot90,Common Nevus
+IMD160_rot180,Common Nevus
+IMD160_rot270,Common Nevus
+IMD160_flipped_rot90,Common Nevus
+IMD160_flipped_rot180,Common Nevus
+IMD160_flipped_rot270,Common Nevus
+IMD417_original,Melanoma
+IMD417_flipped,Melanoma
+IMD417_rot90,Melanoma
+IMD417_rot180,Melanoma
+IMD417_rot270,Melanoma
+IMD417_flipped_rot90,Melanoma
+IMD417_flipped_rot180,Melanoma
+IMD417_flipped_rot270,Melanoma
+IMD411_original,Melanoma
+IMD411_flipped,Melanoma
+IMD411_rot90,Melanoma
+IMD411_rot180,Melanoma
+IMD411_rot270,Melanoma
+IMD411_flipped_rot90,Melanoma
+IMD411_flipped_rot180,Melanoma
+IMD411_flipped_rot270,Melanoma
+IMD021_original,Atypical Nevus
+IMD021_flipped,Atypical Nevus
+IMD021_rot90,Atypical Nevus
+IMD021_rot180,Atypical Nevus
+IMD021_rot270,Atypical Nevus
+IMD021_flipped_rot90,Atypical Nevus
+IMD021_flipped_rot180,Atypical Nevus
+IMD021_flipped_rot270,Atypical Nevus
+IMD061_original,Melanoma
+IMD061_flipped,Melanoma
+IMD061_rot90,Melanoma
+IMD061_rot180,Melanoma
+IMD061_rot270,Melanoma
+IMD061_flipped_rot90,Melanoma
+IMD061_flipped_rot180,Melanoma
+IMD061_flipped_rot270,Melanoma
+IMD017_original,Common Nevus
+IMD017_flipped,Common Nevus
+IMD017_rot90,Common Nevus
+IMD017_rot180,Common Nevus
+IMD017_rot270,Common Nevus
+IMD017_flipped_rot90,Common Nevus
+IMD017_flipped_rot180,Common Nevus
+IMD017_flipped_rot270,Common Nevus
+IMD406_original,Melanoma
+IMD406_flipped,Melanoma
+IMD406_rot90,Melanoma
+IMD406_rot180,Melanoma
+IMD406_rot270,Melanoma
+IMD406_flipped_rot90,Melanoma
+IMD406_flipped_rot180,Melanoma
+IMD406_flipped_rot270,Melanoma
+IMD372_original,Common Nevus
+IMD372_flipped,Common Nevus
+IMD372_rot90,Common Nevus
+IMD372_rot180,Common Nevus
+IMD372_rot270,Common Nevus
+IMD372_flipped_rot90,Common Nevus
+IMD372_flipped_rot180,Common Nevus
+IMD372_flipped_rot270,Common Nevus
+IMD146_original,Common Nevus
+IMD146_flipped,Common Nevus
+IMD146_rot90,Common Nevus
+IMD146_rot180,Common Nevus
+IMD146_rot270,Common Nevus
+IMD146_flipped_rot90,Common Nevus
+IMD146_flipped_rot180,Common Nevus
+IMD146_flipped_rot270,Common Nevus
+IMD356_original,Atypical Nevus
+IMD356_flipped,Atypical Nevus
+IMD356_rot90,Atypical Nevus
+IMD356_rot180,Atypical Nevus
+IMD356_rot270,Atypical Nevus
+IMD356_flipped_rot90,Atypical Nevus
+IMD356_flipped_rot180,Atypical Nevus
+IMD356_flipped_rot270,Atypical Nevus
+IMD126_original,Atypical Nevus
+IMD126_flipped,Atypical Nevus
+IMD126_rot90,Atypical Nevus
+IMD126_rot180,Atypical Nevus
+IMD126_rot270,Atypical Nevus
+IMD126_flipped_rot90,Atypical Nevus
+IMD126_flipped_rot180,Atypical Nevus
+IMD126_flipped_rot270,Atypical Nevus
+IMD198_original,Common Nevus
+IMD198_flipped,Common Nevus
+IMD198_rot90,Common Nevus
+IMD198_rot180,Common Nevus
+IMD198_rot270,Common Nevus
+IMD198_flipped_rot90,Common Nevus
+IMD198_flipped_rot180,Common Nevus
+IMD198_flipped_rot270,Common Nevus
+IMD050_original,Common Nevus
+IMD050_flipped,Common Nevus
+IMD050_rot90,Common Nevus
+IMD050_rot180,Common Nevus
+IMD050_rot270,Common Nevus
+IMD050_flipped_rot90,Common Nevus
+IMD050_flipped_rot180,Common Nevus
+IMD050_flipped_rot270,Common Nevus
+IMD423_original,Melanoma
+IMD423_flipped,Melanoma
+IMD423_rot90,Melanoma
+IMD423_rot180,Melanoma
+IMD423_rot270,Melanoma
+IMD423_flipped_rot90,Melanoma
+IMD423_flipped_rot180,Melanoma
+IMD423_flipped_rot270,Melanoma
+IMD437_original,Atypical Nevus
+IMD437_flipped,Atypical Nevus
+IMD437_rot90,Atypical Nevus
+IMD437_rot180,Atypical Nevus
+IMD437_rot270,Atypical Nevus
+IMD437_flipped_rot90,Atypical Nevus
+IMD437_flipped_rot180,Atypical Nevus
+IMD437_flipped_rot270,Atypical Nevus
+IMD035_original,Common Nevus
+IMD035_flipped,Common Nevus
+IMD035_rot90,Common Nevus
+IMD035_rot180,Common Nevus
+IMD035_rot270,Common Nevus
+IMD035_flipped_rot90,Common Nevus
+IMD035_flipped_rot180,Common Nevus
+IMD035_flipped_rot270,Common Nevus
+IMD159_original,Common Nevus
+IMD159_flipped,Common Nevus
+IMD159_rot90,Common Nevus
+IMD159_rot180,Common Nevus
+IMD159_rot270,Common Nevus
+IMD159_flipped_rot90,Common Nevus
+IMD159_flipped_rot180,Common Nevus
+IMD159_flipped_rot270,Common Nevus
+IMD018_original,Atypical Nevus
+IMD018_flipped,Atypical Nevus
+IMD018_rot90,Atypical Nevus
+IMD018_rot180,Atypical Nevus
+IMD018_rot270,Atypical Nevus
+IMD018_flipped_rot90,Atypical Nevus
+IMD018_flipped_rot180,Atypical Nevus
+IMD018_flipped_rot270,Atypical Nevus
+IMD024_original,Common Nevus
+IMD024_flipped,Common Nevus
+IMD024_rot90,Common Nevus
+IMD024_rot180,Common Nevus
+IMD024_rot270,Common Nevus
+IMD024_flipped_rot90,Common Nevus
+IMD024_flipped_rot180,Common Nevus
+IMD024_flipped_rot270,Common Nevus
+IMD182_original,Common Nevus
+IMD182_flipped,Common Nevus
+IMD182_rot90,Common Nevus
+IMD182_rot180,Common Nevus
+IMD182_rot270,Common Nevus
+IMD182_flipped_rot90,Common Nevus
+IMD182_flipped_rot180,Common Nevus
+IMD182_flipped_rot270,Common Nevus
+IMD360_original,Atypical Nevus
+IMD360_flipped,Atypical Nevus
+IMD360_rot90,Atypical Nevus
+IMD360_rot180,Atypical Nevus
+IMD360_rot270,Atypical Nevus
+IMD360_flipped_rot90,Atypical Nevus
+IMD360_flipped_rot180,Atypical Nevus
+IMD360_flipped_rot270,Atypical Nevus
+IMD370_original,Atypical Nevus
+IMD370_flipped,Atypical Nevus
+IMD370_rot90,Atypical Nevus
+IMD370_rot180,Atypical Nevus
+IMD370_rot270,Atypical Nevus
+IMD370_flipped_rot90,Atypical Nevus
+IMD370_flipped_rot180,Atypical Nevus
+IMD370_flipped_rot270,Atypical Nevus
+IMD164_original,Atypical Nevus
+IMD164_flipped,Atypical Nevus
+IMD164_rot90,Atypical Nevus
+IMD164_rot180,Atypical Nevus
+IMD164_rot270,Atypical Nevus
+IMD164_flipped_rot90,Atypical Nevus
+IMD164_flipped_rot180,Atypical Nevus
+IMD164_flipped_rot270,Atypical Nevus
+IMD369_original,Atypical Nevus
+IMD369_flipped,Atypical Nevus
+IMD369_rot90,Atypical Nevus
+IMD369_rot180,Atypical Nevus
+IMD369_rot270,Atypical Nevus
+IMD369_flipped_rot90,Atypical Nevus
+IMD369_flipped_rot180,Atypical Nevus
+IMD369_flipped_rot270,Atypical Nevus
+IMD045_original,Common Nevus
+IMD045_flipped,Common Nevus
+IMD045_rot90,Common Nevus
+IMD045_rot180,Common Nevus
+IMD045_rot270,Common Nevus
+IMD045_flipped_rot90,Common Nevus
+IMD045_flipped_rot180,Common Nevus
+IMD045_flipped_rot270,Common Nevus
+IMD374_original,Common Nevus
+IMD374_flipped,Common Nevus
+IMD374_rot90,Common Nevus
+IMD374_rot180,Common Nevus
+IMD374_rot270,Common Nevus
+IMD374_flipped_rot90,Common Nevus
+IMD374_flipped_rot180,Common Nevus
+IMD374_flipped_rot270,Common Nevus
+IMD171_original,Atypical Nevus
+IMD171_flipped,Atypical Nevus
+IMD171_rot90,Atypical Nevus
+IMD171_rot180,Atypical Nevus
+IMD171_rot270,Atypical Nevus
+IMD171_flipped_rot90,Atypical Nevus
+IMD171_flipped_rot180,Atypical Nevus
+IMD171_flipped_rot270,Atypical Nevus
+IMD382_original,Atypical Nevus
+IMD382_flipped,Atypical Nevus
+IMD382_rot90,Atypical Nevus
+IMD382_rot180,Atypical Nevus
+IMD382_rot270,Atypical Nevus
+IMD382_flipped_rot90,Atypical Nevus
+IMD382_flipped_rot180,Atypical Nevus
+IMD382_flipped_rot270,Atypical Nevus
+IMD085_original,Melanoma
+IMD085_flipped,Melanoma
+IMD085_rot90,Melanoma
+IMD085_rot180,Melanoma
+IMD085_rot270,Melanoma
+IMD085_flipped_rot90,Melanoma
+IMD085_flipped_rot180,Melanoma
+IMD085_flipped_rot270,Melanoma
+IMD003_original,Common Nevus
+IMD003_flipped,Common Nevus
+IMD003_rot90,Common Nevus
+IMD003_rot180,Common Nevus
+IMD003_rot270,Common Nevus
+IMD003_flipped_rot90,Common Nevus
+IMD003_flipped_rot180,Common Nevus
+IMD003_flipped_rot270,Common Nevus
+IMD429_original,Melanoma
+IMD429_flipped,Melanoma
+IMD429_rot90,Melanoma
+IMD429_rot180,Melanoma
+IMD429_rot270,Melanoma
+IMD429_flipped_rot90,Melanoma
+IMD429_flipped_rot180,Melanoma
+IMD429_flipped_rot270,Melanoma
+IMD430_original,Atypical Nevus
+IMD430_flipped,Atypical Nevus
+IMD430_rot90,Atypical Nevus
+IMD430_rot180,Atypical Nevus
+IMD430_rot270,Atypical Nevus
+IMD430_flipped_rot90,Atypical Nevus
+IMD430_flipped_rot180,Atypical Nevus
+IMD430_flipped_rot270,Atypical Nevus
+IMD385_original,Common Nevus
+IMD385_flipped,Common Nevus
+IMD385_rot90,Common Nevus
+IMD385_rot180,Common Nevus
+IMD385_rot270,Common Nevus
+IMD385_flipped_rot90,Common Nevus
+IMD385_flipped_rot180,Common Nevus
+IMD385_flipped_rot270,Common Nevus
+IMD036_original,Atypical Nevus
+IMD036_flipped,Atypical Nevus
+IMD036_rot90,Atypical Nevus
+IMD036_rot180,Atypical Nevus
+IMD036_rot270,Atypical Nevus
+IMD036_flipped_rot90,Atypical Nevus
+IMD036_flipped_rot180,Atypical Nevus
+IMD036_flipped_rot270,Atypical Nevus
+IMD378_original,Common Nevus
+IMD378_flipped,Common Nevus
+IMD378_rot90,Common Nevus
+IMD378_rot180,Common Nevus
+IMD378_rot270,Common Nevus
+IMD378_flipped_rot90,Common Nevus
+IMD378_flipped_rot180,Common Nevus
+IMD378_flipped_rot270,Common Nevus
+IMD142_original,Common Nevus
+IMD142_flipped,Common Nevus
+IMD142_rot90,Common Nevus
+IMD142_rot180,Common Nevus
+IMD142_rot270,Common Nevus
+IMD142_flipped_rot90,Common Nevus
+IMD142_flipped_rot180,Common Nevus
+IMD142_flipped_rot270,Common Nevus
+IMD064_original,Melanoma
+IMD064_flipped,Melanoma
+IMD064_rot90,Melanoma
+IMD064_rot180,Melanoma
+IMD064_rot270,Melanoma
+IMD064_flipped_rot90,Melanoma
+IMD064_flipped_rot180,Melanoma
+IMD064_flipped_rot270,Melanoma
+IMD161_original,Common Nevus
+IMD161_flipped,Common Nevus
+IMD161_rot90,Common Nevus
+IMD161_rot180,Common Nevus
+IMD161_rot270,Common Nevus
+IMD161_flipped_rot90,Common Nevus
+IMD161_flipped_rot180,Common Nevus
+IMD161_flipped_rot270,Common Nevus
+IMD105_original,Common Nevus
+IMD105_flipped,Common Nevus
+IMD105_rot90,Common Nevus
+IMD105_rot180,Common Nevus
+IMD105_rot270,Common Nevus
+IMD105_flipped_rot90,Common Nevus
+IMD105_flipped_rot180,Common Nevus
+IMD105_flipped_rot270,Common Nevus
+IMD157_original,Atypical Nevus
+IMD157_flipped,Atypical Nevus
+IMD157_rot90,Atypical Nevus
+IMD157_rot180,Atypical Nevus
+IMD157_rot270,Atypical Nevus
+IMD157_flipped_rot90,Atypical Nevus
+IMD157_flipped_rot180,Atypical Nevus
+IMD157_flipped_rot270,Atypical Nevus
+IMD432_original,Atypical Nevus
+IMD432_flipped,Atypical Nevus
+IMD432_rot90,Atypical Nevus
+IMD432_rot180,Atypical Nevus
+IMD432_rot270,Atypical Nevus
+IMD432_flipped_rot90,Atypical Nevus
+IMD432_flipped_rot180,Atypical Nevus
+IMD432_flipped_rot270,Atypical Nevus
+IMD433_original,Atypical Nevus
+IMD433_flipped,Atypical Nevus
+IMD433_rot90,Atypical Nevus
+IMD433_rot180,Atypical Nevus
+IMD433_rot270,Atypical Nevus
+IMD433_flipped_rot90,Atypical Nevus
+IMD433_flipped_rot180,Atypical Nevus
+IMD433_flipped_rot270,Atypical Nevus
+IMD152_original,Common Nevus
+IMD152_flipped,Common Nevus
+IMD152_rot90,Common Nevus
+IMD152_rot180,Common Nevus
+IMD152_rot270,Common Nevus
+IMD152_flipped_rot90,Common Nevus
+IMD152_flipped_rot180,Common Nevus
+IMD152_flipped_rot270,Common Nevus
+IMD147_original,Common Nevus
+IMD147_flipped,Common Nevus
+IMD147_rot90,Common Nevus
+IMD147_rot180,Common Nevus
+IMD147_rot270,Common Nevus
+IMD147_flipped_rot90,Common Nevus
+IMD147_flipped_rot180,Common Nevus
+IMD147_flipped_rot270,Common Nevus
+IMD409_original,Melanoma
+IMD409_flipped,Melanoma
+IMD409_rot90,Melanoma
+IMD409_rot180,Melanoma
+IMD409_rot270,Melanoma
+IMD409_flipped_rot90,Melanoma
+IMD409_flipped_rot180,Melanoma
+IMD409_flipped_rot270,Melanoma
+IMD386_original,Atypical Nevus
+IMD386_flipped,Atypical Nevus
+IMD386_rot90,Atypical Nevus
+IMD386_rot180,Atypical Nevus
+IMD386_rot270,Atypical Nevus
+IMD386_flipped_rot90,Atypical Nevus
+IMD386_flipped_rot180,Atypical Nevus
+IMD386_flipped_rot270,Atypical Nevus
+IMD004_original,Atypical Nevus
+IMD004_flipped,Atypical Nevus
+IMD004_rot90,Atypical Nevus
+IMD004_rot180,Atypical Nevus
+IMD004_rot270,Atypical Nevus
+IMD004_flipped_rot90,Atypical Nevus
+IMD004_flipped_rot180,Atypical Nevus
+IMD004_flipped_rot270,Atypical Nevus
+IMD041_original,Common Nevus
+IMD041_flipped,Common Nevus
+IMD041_rot90,Common Nevus
+IMD041_rot180,Common Nevus
+IMD041_rot270,Common Nevus
+IMD041_flipped_rot90,Common Nevus
+IMD041_flipped_rot180,Common Nevus
+IMD041_flipped_rot270,Common Nevus
+IMD090_original,Melanoma
+IMD090_flipped,Melanoma
+IMD090_rot90,Melanoma
+IMD090_rot180,Melanoma
+IMD090_rot270,Melanoma
+IMD090_flipped_rot90,Melanoma
+IMD090_flipped_rot180,Melanoma
+IMD090_flipped_rot270,Melanoma
+IMD173_original,Common Nevus
+IMD173_flipped,Common Nevus
+IMD173_rot90,Common Nevus
+IMD173_rot180,Common Nevus
+IMD173_rot270,Common Nevus
+IMD173_flipped_rot90,Common Nevus
+IMD173_flipped_rot180,Common Nevus
+IMD173_flipped_rot270,Common Nevus
+IMD048_original,Atypical Nevus
+IMD048_flipped,Atypical Nevus
+IMD048_rot90,Atypical Nevus
+IMD048_rot180,Atypical Nevus
+IMD048_rot270,Atypical Nevus
+IMD048_flipped_rot90,Atypical Nevus
+IMD048_flipped_rot180,Atypical Nevus
+IMD048_flipped_rot270,Atypical Nevus
+IMD431_original,Atypical Nevus
+IMD431_flipped,Atypical Nevus
+IMD431_rot90,Atypical Nevus
+IMD431_rot180,Atypical Nevus
+IMD431_rot270,Atypical Nevus
+IMD431_flipped_rot90,Atypical Nevus
+IMD431_flipped_rot180,Atypical Nevus
+IMD431_flipped_rot270,Atypical Nevus
+IMD133_original,Common Nevus
+IMD133_flipped,Common Nevus
+IMD133_rot90,Common Nevus
+IMD133_rot180,Common Nevus
+IMD133_rot270,Common Nevus
+IMD133_flipped_rot90,Common Nevus
+IMD133_flipped_rot180,Common Nevus
+IMD133_flipped_rot270,Common Nevus
+IMD328_original,Atypical Nevus
+IMD328_flipped,Atypical Nevus
+IMD328_rot90,Atypical Nevus
+IMD328_rot180,Atypical Nevus
+IMD328_rot270,Atypical Nevus
+IMD328_flipped_rot90,Atypical Nevus
+IMD328_flipped_rot180,Atypical Nevus
+IMD328_flipped_rot270,Atypical Nevus
+IMD022_original,Common Nevus
+IMD022_flipped,Common Nevus
+IMD022_rot90,Common Nevus
+IMD022_rot180,Common Nevus
+IMD022_rot270,Common Nevus
+IMD022_flipped_rot90,Common Nevus
+IMD022_flipped_rot180,Common Nevus
+IMD022_flipped_rot270,Common Nevus
+IMD140_original,Atypical Nevus
+IMD140_flipped,Atypical Nevus
+IMD140_rot90,Atypical Nevus
+IMD140_rot180,Atypical Nevus
+IMD140_rot270,Atypical Nevus
+IMD140_flipped_rot90,Atypical Nevus
+IMD140_flipped_rot180,Atypical Nevus
+IMD140_flipped_rot270,Atypical Nevus
+IMD204_original,Common Nevus
+IMD204_flipped,Common Nevus
+IMD204_rot90,Common Nevus
+IMD204_rot180,Common Nevus
+IMD204_rot270,Common Nevus
+IMD204_flipped_rot90,Common Nevus
+IMD204_flipped_rot180,Common Nevus
+IMD204_flipped_rot270,Common Nevus
+IMD280_original,Atypical Nevus
+IMD280_flipped,Atypical Nevus
+IMD280_rot90,Atypical Nevus
+IMD280_rot180,Atypical Nevus
+IMD280_rot270,Atypical Nevus
+IMD280_flipped_rot90,Atypical Nevus
+IMD280_flipped_rot180,Atypical Nevus
+IMD280_flipped_rot270,Atypical Nevus
+IMD404_original,Melanoma
+IMD404_flipped,Melanoma
+IMD404_rot90,Melanoma
+IMD404_rot180,Melanoma
+IMD404_rot270,Melanoma
+IMD404_flipped_rot90,Melanoma
+IMD404_flipped_rot180,Melanoma
+IMD404_flipped_rot270,Melanoma
+IMD349_original,Melanoma
+IMD349_flipped,Melanoma
+IMD349_rot90,Melanoma
+IMD349_rot180,Melanoma
+IMD349_rot270,Melanoma
+IMD349_flipped_rot90,Melanoma
+IMD349_flipped_rot180,Melanoma
+IMD349_flipped_rot270,Melanoma
+IMD410_original,Melanoma
+IMD410_flipped,Melanoma
+IMD410_rot90,Melanoma
+IMD410_rot180,Melanoma
+IMD410_rot270,Melanoma
+IMD410_flipped_rot90,Melanoma
+IMD410_flipped_rot180,Melanoma
+IMD410_flipped_rot270,Melanoma
+IMD196_original,Common Nevus
+IMD196_flipped,Common Nevus
+IMD196_rot90,Common Nevus
+IMD196_rot180,Common Nevus
+IMD196_rot270,Common Nevus
+IMD196_flipped_rot90,Common Nevus
+IMD196_flipped_rot180,Common Nevus
+IMD196_flipped_rot270,Common Nevus
+IMD002_original,Atypical Nevus
+IMD002_flipped,Atypical Nevus
+IMD002_rot90,Atypical Nevus
+IMD002_rot180,Atypical Nevus
+IMD002_rot270,Atypical Nevus
+IMD002_flipped_rot90,Atypical Nevus
+IMD002_flipped_rot180,Atypical Nevus
+IMD002_flipped_rot270,Atypical Nevus
+IMD200_original,Common Nevus
+IMD200_flipped,Common Nevus
+IMD200_rot90,Common Nevus
+IMD200_rot180,Common Nevus
+IMD200_rot270,Common Nevus
+IMD200_flipped_rot90,Common Nevus
+IMD200_flipped_rot180,Common Nevus
+IMD200_flipped_rot270,Common Nevus
+IMD038_original,Common Nevus
+IMD038_flipped,Common Nevus
+IMD038_rot90,Common Nevus
+IMD038_rot180,Common Nevus
+IMD038_rot270,Common Nevus
+IMD038_flipped_rot90,Common Nevus
+IMD038_flipped_rot180,Common Nevus
+IMD038_flipped_rot270,Common Nevus
+IMD166_original,Atypical Nevus
+IMD166_flipped,Atypical Nevus
+IMD166_rot90,Atypical Nevus
+IMD166_rot180,Atypical Nevus
+IMD166_rot270,Atypical Nevus
+IMD166_flipped_rot90,Atypical Nevus
+IMD166_flipped_rot180,Atypical Nevus
+IMD166_flipped_rot270,Atypical Nevus
+IMD040_original,Atypical Nevus
+IMD040_flipped,Atypical Nevus
+IMD040_rot90,Atypical Nevus
+IMD040_rot180,Atypical Nevus
+IMD040_rot270,Atypical Nevus
+IMD040_flipped_rot90,Atypical Nevus
+IMD040_flipped_rot180,Atypical Nevus
+IMD040_flipped_rot270,Atypical Nevus
+IMD015_original,Atypical Nevus
+IMD015_flipped,Atypical Nevus
+IMD015_rot90,Atypical Nevus
+IMD015_rot180,Atypical Nevus
+IMD015_rot270,Atypical Nevus
+IMD015_flipped_rot90,Atypical Nevus
+IMD015_flipped_rot180,Atypical Nevus
+IMD015_flipped_rot270,Atypical Nevus
+IMD285_original,Melanoma
+IMD285_flipped,Melanoma
+IMD285_rot90,Melanoma
+IMD285_rot180,Melanoma
+IMD285_rot270,Melanoma
+IMD285_flipped_rot90,Melanoma
+IMD285_flipped_rot180,Melanoma
+IMD285_flipped_rot270,Melanoma
+IMD405_original,Melanoma
+IMD405_flipped,Melanoma
+IMD405_rot90,Melanoma
+IMD405_rot180,Melanoma
+IMD405_rot270,Melanoma
+IMD405_flipped_rot90,Melanoma
+IMD405_flipped_rot180,Melanoma
+IMD405_flipped_rot270,Melanoma
+IMD033_original,Atypical Nevus
+IMD033_flipped,Atypical Nevus
+IMD033_rot90,Atypical Nevus
+IMD033_rot180,Atypical Nevus
+IMD033_rot270,Atypical Nevus
+IMD033_flipped_rot90,Atypical Nevus
+IMD033_flipped_rot180,Atypical Nevus
+IMD033_flipped_rot270,Atypical Nevus
+IMD042_original,Common Nevus
+IMD042_flipped,Common Nevus
+IMD042_rot90,Common Nevus
+IMD042_rot180,Common Nevus
+IMD042_rot270,Common Nevus
+IMD042_flipped_rot90,Common Nevus
+IMD042_flipped_rot180,Common Nevus
+IMD042_flipped_rot270,Common Nevus
+IMD101_original,Common Nevus
+IMD101_flipped,Common Nevus
+IMD101_rot90,Common Nevus
+IMD101_rot180,Common Nevus
+IMD101_rot270,Common Nevus
+IMD101_flipped_rot90,Common Nevus
+IMD101_flipped_rot180,Common Nevus
+IMD101_flipped_rot270,Common Nevus
+IMD367_original,Common Nevus
+IMD367_flipped,Common Nevus
+IMD367_rot90,Common Nevus
+IMD367_rot180,Common Nevus
+IMD367_rot270,Common Nevus
+IMD367_flipped_rot90,Common Nevus
+IMD367_flipped_rot180,Common Nevus
+IMD367_flipped_rot270,Common Nevus
+IMD211_original,Melanoma
+IMD211_flipped,Melanoma
+IMD211_rot90,Melanoma
+IMD211_rot180,Melanoma
+IMD211_rot270,Melanoma
+IMD211_flipped_rot90,Melanoma
+IMD211_flipped_rot180,Melanoma
+IMD211_flipped_rot270,Melanoma
+IMD278_original,Atypical Nevus
+IMD278_flipped,Atypical Nevus
+IMD278_rot90,Atypical Nevus
+IMD278_rot180,Atypical Nevus
+IMD278_rot270,Atypical Nevus
+IMD278_flipped_rot90,Atypical Nevus
+IMD278_flipped_rot180,Atypical Nevus
+IMD278_flipped_rot270,Atypical Nevus
+IMD125_original,Common Nevus
+IMD125_flipped,Common Nevus
+IMD125_rot90,Common Nevus
+IMD125_rot180,Common Nevus
+IMD125_rot270,Common Nevus
+IMD125_flipped_rot90,Common Nevus
+IMD125_flipped_rot180,Common Nevus
+IMD125_flipped_rot270,Common Nevus
+IMD390_original,Common Nevus
+IMD390_flipped,Common Nevus
+IMD390_rot90,Common Nevus
+IMD390_rot180,Common Nevus
+IMD390_rot270,Common Nevus
+IMD390_flipped_rot90,Common Nevus
+IMD390_flipped_rot180,Common Nevus
+IMD390_flipped_rot270,Common Nevus
+IMD284_original,Melanoma
+IMD284_flipped,Melanoma
+IMD284_rot90,Melanoma
+IMD284_rot180,Melanoma
+IMD284_rot270,Melanoma
+IMD284_flipped_rot90,Melanoma
+IMD284_flipped_rot180,Melanoma
+IMD284_flipped_rot270,Melanoma
+IMD304_original,Atypical Nevus
+IMD304_flipped,Atypical Nevus
+IMD304_rot90,Atypical Nevus
+IMD304_rot180,Atypical Nevus
+IMD304_rot270,Atypical Nevus
+IMD304_flipped_rot90,Atypical Nevus
+IMD304_flipped_rot180,Atypical Nevus
+IMD304_flipped_rot270,Atypical Nevus
+IMD088_original,Melanoma
+IMD088_flipped,Melanoma
+IMD088_rot90,Melanoma
+IMD088_rot180,Melanoma
+IMD088_rot270,Melanoma
+IMD088_flipped_rot90,Melanoma
+IMD088_flipped_rot180,Melanoma
+IMD088_flipped_rot270,Melanoma
+IMD408_original,Melanoma
+IMD408_flipped,Melanoma
+IMD408_rot90,Melanoma
+IMD408_rot180,Melanoma
+IMD408_rot270,Melanoma
+IMD408_flipped_rot90,Melanoma
+IMD408_flipped_rot180,Melanoma
+IMD408_flipped_rot270,Melanoma
+IMD375_original,Common Nevus
+IMD375_flipped,Common Nevus
+IMD375_rot90,Common Nevus
+IMD375_rot180,Common Nevus
+IMD375_rot270,Common Nevus
+IMD375_flipped_rot90,Common Nevus
+IMD375_flipped_rot180,Common Nevus
+IMD375_flipped_rot270,Common Nevus
+IMD206_original,Common Nevus
+IMD206_flipped,Common Nevus
+IMD206_rot90,Common Nevus
+IMD206_rot180,Common Nevus
+IMD206_rot270,Common Nevus
+IMD206_flipped_rot90,Common Nevus
+IMD206_flipped_rot180,Common Nevus
+IMD206_flipped_rot270,Common Nevus
+IMD153_original,Atypical Nevus
+IMD153_flipped,Atypical Nevus
+IMD153_rot90,Atypical Nevus
+IMD153_rot180,Atypical Nevus
+IMD153_rot270,Atypical Nevus
+IMD153_flipped_rot90,Atypical Nevus
+IMD153_flipped_rot180,Atypical Nevus
+IMD153_flipped_rot270,Atypical Nevus
+IMD197_original,Common Nevus
+IMD197_flipped,Common Nevus
+IMD197_rot90,Common Nevus
+IMD197_rot180,Common Nevus
+IMD197_rot270,Common Nevus
+IMD197_flipped_rot90,Common Nevus
+IMD197_flipped_rot180,Common Nevus
+IMD197_flipped_rot270,Common Nevus
+IMD425_original,Melanoma
+IMD425_flipped,Melanoma
+IMD425_rot90,Melanoma
+IMD425_rot180,Melanoma
+IMD425_rot270,Melanoma
+IMD425_flipped_rot90,Melanoma
+IMD425_flipped_rot180,Melanoma
+IMD425_flipped_rot270,Melanoma
+IMD365_original,Common Nevus
+IMD365_flipped,Common Nevus
+IMD365_rot90,Common Nevus
+IMD365_rot180,Common Nevus
+IMD365_rot270,Common Nevus
+IMD365_flipped_rot90,Common Nevus
+IMD365_flipped_rot180,Common Nevus
+IMD365_flipped_rot270,Common Nevus
+IMD176_original,Common Nevus
+IMD176_flipped,Common Nevus
+IMD176_rot90,Common Nevus
+IMD176_rot180,Common Nevus
+IMD176_rot270,Common Nevus
+IMD176_flipped_rot90,Common Nevus
+IMD176_flipped_rot180,Common Nevus
+IMD176_flipped_rot270,Common Nevus
+IMD032_original,Atypical Nevus
+IMD032_flipped,Atypical Nevus
+IMD032_rot90,Atypical Nevus
+IMD032_rot180,Atypical Nevus
+IMD032_rot270,Atypical Nevus
+IMD032_flipped_rot90,Atypical Nevus
+IMD032_flipped_rot180,Atypical Nevus
+IMD032_flipped_rot270,Atypical Nevus
+IMD144_original,Common Nevus
+IMD144_flipped,Common Nevus
+IMD144_rot90,Common Nevus
+IMD144_rot180,Common Nevus
+IMD144_rot270,Common Nevus
+IMD144_flipped_rot90,Common Nevus
+IMD144_flipped_rot180,Common Nevus
+IMD144_flipped_rot270,Common Nevus
+IMD364_original,Common Nevus
+IMD364_flipped,Common Nevus
+IMD364_rot90,Common Nevus
+IMD364_rot180,Common Nevus
+IMD364_rot270,Common Nevus
+IMD364_flipped_rot90,Common Nevus
+IMD364_flipped_rot180,Common Nevus
+IMD364_flipped_rot270,Common Nevus
+IMD058_original,Melanoma
+IMD058_flipped,Melanoma
+IMD058_rot90,Melanoma
+IMD058_rot180,Melanoma
+IMD058_rot270,Melanoma
+IMD058_flipped_rot90,Melanoma
+IMD058_flipped_rot180,Melanoma
+IMD058_flipped_rot270,Melanoma
+IMD420_original,Melanoma
+IMD420_flipped,Melanoma
+IMD420_rot90,Melanoma
+IMD420_rot180,Melanoma
+IMD420_rot270,Melanoma
+IMD420_flipped_rot90,Melanoma
+IMD420_flipped_rot180,Melanoma
+IMD420_flipped_rot270,Melanoma
+IMD254_original,Atypical Nevus
+IMD254_flipped,Atypical Nevus
+IMD254_rot90,Atypical Nevus
+IMD254_rot180,Atypical Nevus
+IMD254_rot270,Atypical Nevus
+IMD254_flipped_rot90,Atypical Nevus
+IMD254_flipped_rot180,Atypical Nevus
+IMD254_flipped_rot270,Atypical Nevus
+IMD020_original,Common Nevus
+IMD020_flipped,Common Nevus
+IMD020_rot90,Common Nevus
+IMD020_rot180,Common Nevus
+IMD020_rot270,Common Nevus
+IMD020_flipped_rot90,Common Nevus
+IMD020_flipped_rot180,Common Nevus
+IMD020_flipped_rot270,Common Nevus
+IMD434_original,Atypical Nevus
+IMD434_flipped,Atypical Nevus
+IMD434_rot90,Atypical Nevus
+IMD434_rot180,Atypical Nevus
+IMD434_rot270,Atypical Nevus
+IMD434_flipped_rot90,Atypical Nevus
+IMD434_flipped_rot180,Atypical Nevus
+IMD434_flipped_rot270,Atypical Nevus
+IMD421_original,Melanoma
+IMD421_flipped,Melanoma
+IMD421_rot90,Melanoma
+IMD421_rot180,Melanoma
+IMD421_rot270,Melanoma
+IMD421_flipped_rot90,Melanoma
+IMD421_flipped_rot180,Melanoma
+IMD421_flipped_rot270,Melanoma
+IMD009_original,Common Nevus
+IMD009_flipped,Common Nevus
+IMD009_rot90,Common Nevus
+IMD009_rot180,Common Nevus
+IMD009_rot270,Common Nevus
+IMD009_flipped_rot90,Common Nevus
+IMD009_flipped_rot180,Common Nevus
+IMD009_flipped_rot270,Common Nevus
+IMD203_original,Common Nevus
+IMD203_flipped,Common Nevus
+IMD203_rot90,Common Nevus
+IMD203_rot180,Common Nevus
+IMD203_rot270,Common Nevus
+IMD203_flipped_rot90,Common Nevus
+IMD203_flipped_rot180,Common Nevus
+IMD203_flipped_rot270,Common Nevus
+IMD393_original,Atypical Nevus
+IMD393_flipped,Atypical Nevus
+IMD393_rot90,Atypical Nevus
+IMD393_rot180,Atypical Nevus
+IMD393_rot270,Atypical Nevus
+IMD393_flipped_rot90,Atypical Nevus
+IMD393_flipped_rot180,Atypical Nevus
+IMD393_flipped_rot270,Atypical Nevus
+IMD256_original,Atypical Nevus
+IMD256_flipped,Atypical Nevus
+IMD256_rot90,Atypical Nevus
+IMD256_rot180,Atypical Nevus
+IMD256_rot270,Atypical Nevus
+IMD256_flipped_rot90,Atypical Nevus
+IMD256_flipped_rot180,Atypical Nevus
+IMD256_flipped_rot270,Atypical Nevus
+IMD398_original,Atypical Nevus
+IMD398_flipped,Atypical Nevus
+IMD398_rot90,Atypical Nevus
+IMD398_rot180,Atypical Nevus
+IMD398_rot270,Atypical Nevus
+IMD398_flipped_rot90,Atypical Nevus
+IMD398_flipped_rot180,Atypical Nevus
+IMD398_flipped_rot270,Atypical Nevus
+IMD138_original,Atypical Nevus
+IMD138_flipped,Atypical Nevus
+IMD138_rot90,Atypical Nevus
+IMD138_rot180,Atypical Nevus
+IMD138_rot270,Atypical Nevus
+IMD138_flipped_rot90,Atypical Nevus
+IMD138_flipped_rot180,Atypical Nevus
+IMD138_flipped_rot270,Atypical Nevus
+IMD078_original,Atypical Nevus
+IMD078_flipped,Atypical Nevus
+IMD078_rot90,Atypical Nevus
+IMD078_rot180,Atypical Nevus
+IMD078_rot270,Atypical Nevus
+IMD078_flipped_rot90,Atypical Nevus
+IMD078_flipped_rot180,Atypical Nevus
+IMD078_flipped_rot270,Atypical Nevus
+IMD376_original,Atypical Nevus
+IMD376_flipped,Atypical Nevus
+IMD376_rot90,Atypical Nevus
+IMD376_rot180,Atypical Nevus
+IMD376_rot270,Atypical Nevus
+IMD376_flipped_rot90,Atypical Nevus
+IMD376_flipped_rot180,Atypical Nevus
+IMD376_flipped_rot270,Atypical Nevus
+IMD030_original,Atypical Nevus
+IMD030_flipped,Atypical Nevus
+IMD030_rot90,Atypical Nevus
+IMD030_rot180,Atypical Nevus
+IMD030_rot270,Atypical Nevus
+IMD030_flipped_rot90,Atypical Nevus
+IMD030_flipped_rot180,Atypical Nevus
+IMD030_flipped_rot270,Atypical Nevus
+IMD394_original,Common Nevus
+IMD394_flipped,Common Nevus
+IMD394_rot90,Common Nevus
+IMD394_rot180,Common Nevus
+IMD394_rot270,Common Nevus
+IMD394_flipped_rot90,Common Nevus
+IMD394_flipped_rot180,Common Nevus
+IMD394_flipped_rot270,Common Nevus
+IMD023_original,Atypical Nevus
+IMD023_flipped,Atypical Nevus
+IMD023_rot90,Atypical Nevus
+IMD023_rot180,Atypical Nevus
+IMD023_rot270,Atypical Nevus
+IMD023_flipped_rot90,Atypical Nevus
+IMD023_flipped_rot180,Atypical Nevus
+IMD023_flipped_rot270,Atypical Nevus
+IMD435_original,Melanoma
+IMD435_flipped,Melanoma
+IMD435_rot90,Melanoma
+IMD435_rot180,Melanoma
+IMD435_rot270,Melanoma
+IMD435_flipped_rot90,Melanoma
+IMD435_flipped_rot180,Melanoma
+IMD435_flipped_rot270,Melanoma
+IMD135_original,Common Nevus
+IMD135_flipped,Common Nevus
+IMD135_rot90,Common Nevus
+IMD135_rot180,Common Nevus
+IMD135_rot270,Common Nevus
+IMD135_flipped_rot90,Common Nevus
+IMD135_flipped_rot180,Common Nevus
+IMD135_flipped_rot270,Common Nevus
+IMD418_original,Melanoma
+IMD418_flipped,Melanoma
+IMD418_rot90,Melanoma
+IMD418_rot180,Melanoma
+IMD418_rot270,Melanoma
+IMD418_flipped_rot90,Melanoma
+IMD418_flipped_rot180,Melanoma
+IMD418_flipped_rot270,Melanoma
+IMD389_original,Common Nevus
+IMD389_flipped,Common Nevus
+IMD389_rot90,Common Nevus
+IMD389_rot180,Common Nevus
+IMD389_rot270,Common Nevus
+IMD389_flipped_rot90,Common Nevus
+IMD389_flipped_rot180,Common Nevus
+IMD389_flipped_rot270,Common Nevus
+IMD149_original,Atypical Nevus
+IMD149_flipped,Atypical Nevus
+IMD149_rot90,Atypical Nevus
+IMD149_rot180,Atypical Nevus
+IMD149_rot270,Atypical Nevus
+IMD149_flipped_rot90,Atypical Nevus
+IMD149_flipped_rot180,Atypical Nevus
+IMD149_flipped_rot270,Atypical Nevus
+IMD103_original,Common Nevus
+IMD103_flipped,Common Nevus
+IMD103_rot90,Common Nevus
+IMD103_rot180,Common Nevus
+IMD103_rot270,Common Nevus
+IMD103_flipped_rot90,Common Nevus
+IMD103_flipped_rot180,Common Nevus
+IMD103_flipped_rot270,Common Nevus
+IMD043_original,Atypical Nevus
+IMD043_flipped,Atypical Nevus
+IMD043_rot90,Atypical Nevus
+IMD043_rot180,Atypical Nevus
+IMD043_rot270,Atypical Nevus
+IMD043_flipped_rot90,Atypical Nevus
+IMD043_flipped_rot180,Atypical Nevus
+IMD043_flipped_rot270,Atypical Nevus
+IMD403_original,Melanoma
+IMD403_flipped,Melanoma
+IMD403_rot90,Melanoma
+IMD403_rot180,Melanoma
+IMD403_rot270,Melanoma
+IMD403_flipped_rot90,Melanoma
+IMD403_flipped_rot180,Melanoma
+IMD403_flipped_rot270,Melanoma
+IMD137_original,Atypical Nevus
+IMD137_flipped,Atypical Nevus
+IMD137_rot90,Atypical Nevus
+IMD137_rot180,Atypical Nevus
+IMD137_rot270,Atypical Nevus
+IMD137_flipped_rot90,Atypical Nevus
+IMD137_flipped_rot180,Atypical Nevus
+IMD137_flipped_rot270,Atypical Nevus
