@@ -70,13 +70,13 @@ python main.py --dataset_name ISIC2018 --batch_size 256 --epoch 200
 2、Evaluate a checkpoint once:
 
 ```python
-python main.py --dataset_name PH2 --batch_size 64 --eval_ckpt checkpoints/PH2_resnet34_xxx/xx_best_dice.pth --eval_only
+python main.py --dataset_name PH2 --batch_size 64 --eval_ckpt --eval_only
 ```
 
 ```python
-python main.py --dataset_name ISIC2017 --batch_size 256 --eval_ckpt checkpoints/ISIC2017_resnet34_xxx/xx_best_dice.pth --eval_only
+python main.py --dataset_name ISIC2017 --batch_size 256 --eval_ckpt --eval_only
 ```
 
 ```python
-python main.py --dataset_name ISIC2018 --batch_size 256 --eval_ckpt checkpoints/ISIC2018_resnet34_xxx/xx_best_dice.pth --eval_only
+python main.py --dataset_name ISIC2018 --batch_size 256 --eval_ckpt --eval_only
 ```
