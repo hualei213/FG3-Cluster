@@ -1,0 +1,13 @@
+# Minimal requirements for FG3-Cluster
+# Install PyTorch/torchvision according to your CUDA version if GPU training is needed.
+
+numpy
+pandas
+Pillow
+matplotlib
+scikit-learn
+tqdm
+opencv-python
+torch
+torchvision
+torch-geometric
