@@ -51,32 +51,37 @@ For ISIC 2018 metadata, click the **Actions** icon in the upper-right corner of 
 * [ISIC 2018 Task 1-2 Validation Metadata](https://api.isic-archive.com/collections/62/)
 * [ISIC 2018 Task 1-2 Test Metadata](https://api.isic-archive.com/collections/64/)
 
+The trained checkpoints can be downloaded from Baidu Netdisk:
+
+* Checkpoints: [Baidu Netdisk](https://pan.baidu.com/s/12ke-0L4G_l3CXDuDFGFl6w?pwd=jyj7)
+
+
 ### Run each step:
 
 1、Train the classification model, generate pseudo masks, and train the segmentation branch with image-level labels:
 
-```python
+```bash
 python main.py --dataset_name PH2 --batch_size 64 --epoch 100
 ```
 
-```python
+```bash
 python main.py --dataset_name ISIC2017 --batch_size 256 --epoch 200
 ```
 
-```python
+```bash
 python main.py --dataset_name ISIC2018 --batch_size 256 --epoch 200
 ```
 
 2、Evaluate a checkpoint once:
 
-```python
-python main.py --dataset_name PH2 --batch_size 64 --eval_ckpt --eval_only
+```bash
+python main.py --dataset_name PH2 --batch_size 64 --eval_ckpt checkpoints/PH2_resnet34_xxx/xx_best_dice.pth --eval_only
 ```
 
-```python
-python main.py --dataset_name ISIC2017 --batch_size 256 --eval_ckpt --eval_only
+```bash
+python main.py --dataset_name ISIC2017 --batch_size 256 --eval_ckpt checkpoints/ISIC2017_resnet34_xxx/xx_best_dice.pth --eval_only
 ```
 
-```python
-python main.py --dataset_name ISIC2018 --batch_size 256 --eval_ckpt --eval_only
+```bash
+python main.py --dataset_name ISIC2018 --batch_size 256 --eval_ckpt checkpoints/ISIC2018_resnet34_xxx/xx_best_dice.pth --eval_only
 ```
