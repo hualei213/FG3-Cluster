@@ -883,7 +883,7 @@ def train(current_epoch, train_loader, model, optimizer, scaler, args, writer, l
         cluster_kmeans_weight_map = {
             "ISIC2018": 0.08,
             "ISIC2017": 0.05,
-            "PH2": 0.3,
+            "PH2": 0.03,
         }
         if dataset_name not in cluster_kmeans_weight_map:
             raise ValueError(f"Unsupported dataset for cluster_kmeans_weight: {dataset_name}")
