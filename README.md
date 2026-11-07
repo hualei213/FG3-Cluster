@@ -85,3 +85,18 @@ python main.py --dataset_name ISIC2017 --batch_size 256 --eval_ckpt --eval_only
 ```bash
 python main.py --dataset_name ISIC2018 --batch_size 256 --eval_ckpt --eval_only
 ```
+
+## Paper Citation
+```
+@InProceedings{10.1007/978-3-032-38069-2_22,
+author="Deng, Zhaoxin
+and Wang, Dongang
+and Shen, Hualei",
+title="Frequency and Geometry Guided Graph Clustering for Weakly Supervised Skin Lesion Segmentation",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="227--237"
+}
+```
